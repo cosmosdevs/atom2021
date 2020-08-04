@@ -8,6 +8,6 @@ The goal of the ATOM2021 initiative is modernize 2016 era ideas about how Proof 
 
 * In 2021, staked ATOM holders must earn yield on custodial assets via Peggy
 
-* In 2021, ATOMs must earn funds securing the consensus of other chains
+* In 2021, the Cosmos Hub must support an Automated Market Maker allowing for the seamless exchange of tokens including staking derivatives and IBC tokens.
 
 The Cosmos Hub should reserve 250,000 ATOMs from the community pool to incentivize and reward teams that deliver the ATOM2021 initiative.
