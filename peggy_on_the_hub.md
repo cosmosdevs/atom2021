@@ -8,7 +8,7 @@ Should Peggy be deployed as a Shared Security Zone or module in Gaia as part of 
 
 In April 2020, Althea proposed an [DeFi enabled Ethereum bridge for Cosmos](https://blog.althea.net/defi-enabled-ethereum-bridge-for-cosmos/) for a DEFI enable PegZone.
 
-The Interchain Foundation has provided [Althea](https://blog.althea.net/solid-foundations-for-peggy/)with resources to implement the technical components of this vision.
+The Interchain Foundation has provided [Althea](https://blog.althea.net/solid-foundations-for-peggy/) with resources to implement the technical components of this vision.
 
 Althea is developing a Cosmos SDK [module](https://github.com/cosmos/peggy/tree/althea-peggy)+ solidity contracts here.
 
