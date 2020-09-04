@@ -10,7 +10,7 @@ Derivatives of staked ATOMs do not exist today. We strongly believe that creatin
 * **In 2021, staked ATOM holders must earn yield on custodial assets via Peggy**\
 Presently ATOM holders are not able to earn rewards on custodial assets of any external chain.  ATOM2021 vision is to change that. Peggy creates that opportunity between Cosmos blockchains and Ethereum. It allows Cosmos Validators to run a smart contract on Ethereum platform to earn yield on Ether that is stored on Cosmos Peggy account. In exchange, Peggy issues Ether Vouchers to Cosmos users. These Vouchers are backed by the underlying Ether and can be used in all projects that have IBC support.\
   -- 30,000 ATOMs have been raised by a community funding campaign to support this effort.\
-  -- Peggy development is led by [Iqlusion](https://www.iqlusion.io) and [Althea](https://althea.net) teams.
+  -- The development of Peggy is led by [Iqlusion](https://www.iqlusion.io) and [Althea](https://althea.net) teams.
 
 
 * **In 2021, the Cosmos Hub must support an Automated Market Maker allowing seamless exchange of tokens, including staking derivatives and IBC tokens**\
