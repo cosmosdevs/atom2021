@@ -15,4 +15,6 @@ Presently ATOM holders are not able to earn rewards on custodial assets of any e
 
 * **In 2021, the Cosmos Hub must support an Automated Market Maker allowing seamless exchange of tokens, including staking derivatives and IBC tokens**\
 In order to support active trading of staked ATOM derivatives and other IBC tokens, we would like to have a decentralized trading platform available on the main Cosmos Hub. An Automated Market Maker (AMM) provides necessary liquidity and allows ATOM stakers to earn fees as Liquidity Providers. That gives ATOM holders more incentive to stake with non-exchange Validators and better access to innovative DeFi products that exchanges are not able to offer.\
-   -- The development of AMM is led by [B-Harvest](https://github.com/b-harvest/Liquidity-Module-For-the-Hub) and [All in Bits, Inc](https://tendermint.com/) (AIB), who is also funding the work.
+   -- The development of AMM is led by [B-Harvest](https://bharvest.io/)and [All in Bits, Inc](https://tendermint.com/) (AiB), who is also funding the work.\
+   -- Project specs, milestones and timeline can be found [here](https://github.com/b-harvest/Liquidity-Module-For-the-Hub).
+ 
